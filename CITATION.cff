@@ -1,0 +1,23 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Hussain
+    given-names: Iqram
+    orcid: https://orcid.org/0000-0002-XXXX-YYYY
+  - family-names: Sarlo
+    given-names: Rodrigo
+  - family-names: Jany
+    given-names: Rafsan
+  - family-names: Scarpa
+    given-names: Julia
+  - family-names: Pryor
+    given-names: Kane O.
+  - family-names: Boyer
+    given-names: Richard
+  - family-names: Scarpa
+    given-names: Joseph
+title: "Frailty-Gait-STGCN: Attention-Guided Graph Deep Learning for Interpretable Frailty Prediction from Gait"
+version: v1.0.0
+date-released: 2025-09-19
+doi: 10.5281/zenodo.xxxxxxx
+url: "https://github.com/iqram20/Frailty-Gait-STGCN"
