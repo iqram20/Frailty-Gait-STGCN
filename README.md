@@ -1,7 +1,7 @@
 # Frailty-Gait-STGCN
 
 Official implementation of the manuscript:  
-**“Attention-Guided Graph Deep Learning for Interpretable Frailty Prediction from Gait”**  
+**“Graph Deep Learning with Attention for Gait-based Frailty Prediction”**  
 *(Submitted to......)*
 
 
