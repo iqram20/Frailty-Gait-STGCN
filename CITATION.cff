@@ -3,7 +3,7 @@ message: "If you use this software/code/concept, please cite it as below."
 authors:
   - family-names: Hussain
     given-names: Iqram
-    orcid: https://orcid.org/0000-0002-XXXX-YYYY
+    orcid: https://orcid.org/0000-0002-5183-7631
   - family-names: Sarlo
     given-names: Rodrigo
   - family-names: Jany
@@ -16,7 +16,7 @@ authors:
     given-names: Richard
   - family-names: Scarpa
     given-names: Joseph
-title: "Frailty-Gait-STGCN: Attention-Guided Graph Deep Learning for Interpretable Frailty Prediction from Gait"
+title: "Graph Deep Learning with Attention for Gait-based Frailty Prediction"
 version: v1.0.0
 date-released: 2025-09-19
 doi: 10.5281/zenodo.17162373
