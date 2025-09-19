@@ -4,7 +4,6 @@ Official implementation of the manuscript:
 **“Attention-Guided Graph Deep Learning for Interpretable Frailty Prediction from Gait”**  
 *(Submitted to......)*
 
----
 
 ## 📖 Overview
 This repository contains the code for an **attention-guided spatiotemporal graph convolutional network (ST-GCN)** designed to predict frailty from Kinect-based gait recordings.  
@@ -18,7 +17,7 @@ Key features:
 
 > ⚠️ Patient-level data cannot be shared due to privacy restrictions. A **synthetic demo dataset** is provided for reproducibility.  
 
----
+
 
 ## 🛠️ Installation
 
