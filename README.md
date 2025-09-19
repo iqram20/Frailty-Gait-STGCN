@@ -1,20 +1,28 @@
-This repository provides the official implementation of the manuscript:
+# Frailty-Gait-STGCN
 
-“Attention-Guided Graph Deep Learning for Interpretable Frailty Prediction from Gait”
-(submitted to Artificial Intelligence in Medicine, 2025)
+Official implementation of the manuscript:  
+**“Attention-Guided Graph Deep Learning for Interpretable Frailty Prediction from Gait”**  
+*(Submitted to......)*
 
-All code is for research and academic use only.
+---
 
-The repository includes model architecture, training, and interpretability modules (Grad-CAM, attention heatmaps).
+## 📖 Overview
+This repository contains the code for an **attention-guided spatiotemporal graph convolutional network (ST-GCN)** designed to predict frailty from Kinect-based gait recordings.  
 
-Patient data cannot be shared due to privacy restrictions. A synthetic example dataset is provided for demonstration and reproducibility.
+Key features:
+- Hybrid ST-GCN with **joint- and frame-level attention**  
+- **Interpretability** via Grad-CAM and attention heatmaps  
+- **Patient-level decision fusion** (soft, attention-weighted, confidence-weighted, blended voting)  
+- **Meta-classifier** for secondary prediction using XGBoost  
+- Example scripts for preprocessing, training, testing, and visualization  
 
-If you use this code, please cite our work:
+> ⚠️ Patient-level data cannot be shared due to privacy restrictions. A **synthetic demo dataset** is provided for reproducibility.  
 
-@article{Hussain2025FrailtySTGCN,
-  title   = {Attention-Guided Graph Deep Learning for Interpretable Frailty Prediction from Gait},
-  author  = {Iqram Hussain and Rodrigo Sarlo and Rafsan Jany and Julia Scarpa and Kane O. Pryor and Richard Boyer and Joseph Scarpa},
-  journal = {Artificial Intelligence in Medicine},
-  year    = {2025},
-  note    = {Submitted}
-}
+---
+
+## 🛠️ Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/iqram20/Frailty-Gait-STGCN.git
+cd Frailty-Gait-STGCN
