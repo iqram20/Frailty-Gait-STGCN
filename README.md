@@ -5,7 +5,7 @@ Official implementation of the manuscript:
 *(Submitted to......)*
 
 
-## 📖 Overview
+## Overview
 This repository contains the code for an **attention-guided spatiotemporal graph convolutional network (ST-GCN)** designed to predict frailty from Kinect-based gait recordings.  
 
 Key features:
@@ -15,11 +15,11 @@ Key features:
 - **Meta-classifier** for secondary prediction using XGBoost  
 - Example scripts for preprocessing, training, testing, and visualization  
 
-> ⚠️ Patient-level data cannot be shared due to privacy restrictions. A **synthetic demo dataset** is provided for reproducibility.  
+> Patient-level data cannot be shared due to privacy restrictions. A **synthetic demo dataset** is provided for reproducibility.  
 
 
 
-## 🛠️ Installation
+## Installation
 
 Clone the repository:
 ```bash
