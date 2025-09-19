@@ -15,7 +15,7 @@ Key features:
 - **Meta-classifier** for secondary prediction using XGBoost  
 - Example scripts for preprocessing, training, testing, and visualization  
 
-> Patient-level data cannot be shared due to privacy restrictions. A **synthetic demo dataset** is provided for reproducibility.  
+> Patient-level data cannot be shared due to privacy restrictions.
 
 
 
