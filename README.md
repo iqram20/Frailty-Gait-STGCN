@@ -24,15 +24,3 @@ Clone the repository:
 ```bash
 git clone https://github.com/iqram20/Frailty-Gait-STGCN.git
 cd Frailty-Gait-STGCN
-
-```bibtex
-@software{Hussain_FrailtyGaitSTGCN_2025,
-  author       = {Iqram Hussain and Rodrigo Sarlo and Rafsan Jany and Julia Scarpa and Kane O. Pryor and Richard Boyer and Joseph Scarpa},
-  title        = {Frailty-Gait-STGCN: Attention-Guided Graph Deep Learning for Interpretable Frailty Prediction from Gait},
-  month        = sep,
-  year         = 2025,
-  publisher    = {Zenodo},
-  version      = {v1.0.0},
-  doi          = {10.5281/zenodo.17162373},
-  url          = {https://doi.org/10.5281/zenodo.17162373}
-}
